@@ -1,0 +1,11 @@
+test unitario verifica una funcion en especifico,
+ingenieria de requerimientos son las reglas para recopilaar informsacion con el cliente en base a 3 visitas 
+
+
+NATURALEZA DEL SOFTWARE
+
+- es dual actualmente  (producto/servicio)   
+- manejo de informacion: manejar la informacion del cliente sin exponerla en ningun momento 
+- se desarolla y no se manofactura
+- el software no se desgasta (hay q actualizar las plataformas cuando pasa el tiempo)
+- 

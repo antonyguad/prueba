@@ -1,0 +1,56 @@
+*carga impredecible: hacer purebas de rendimiento antes de subir el programa , no sabemos como puede raccionar la aplicacion
+
+*rendimiento: depende en donde y como se configurare y a que se valla a implementar
+
+* disponiiblilidad: 
+ 
+* orientada a datos:
+
+* contenido sensible: 
+buen proveedor 
+* evolucion continua: tener las aplicaciones actualizadas para no perder soporte del lenguaje de programacion
+* seguridad: no exponer la informacion de del cliente o provedor 
+
+* estetica: tener una estitica como el diseño de app y no es igual tener una app de escritorio que una web los puntos siempre cambian.
+
+
+
+		ingenieria de software
+
+el objetivo es desarollar de forma economica el software que sea confiable y que trabjade de forma eficiente
+		el proceso de software
+- comunicacion 
+es la parte donde se habla con el cliente para los requerimientos y puntos que vamos a diseñar
+- planeacion 
+tiene que haber un encargado para estimar los timpos e tareas,
+la manera de mejorarla es por la experiencia.  
+
+- modelado 
+es donde hacemos el diseño de la aplicacion 
+el problema es no saber modelar una base de datos o establecer casos de usos 
+- construccion
+es la programacion 
+- despliegue
+es cuando se poner en produccion lo que hemos echo
+
+
+
+	Las actividades que complementan
+
+-seguimiento de control del proyecto
+
+-administracion de riesgos
+estar preparado para cualquier riesgo 
+-aseguramiento de la calidad de software
+
+-revisiones tecnicas
+als revisiones que hacemos para ver que este funcionando correctamente
+-mediciones
+
+-administracion de la reutilizacion
+
+-produccion del producto
+saber como y en donde distribuir el sistema
+
+
+

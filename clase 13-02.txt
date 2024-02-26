@@ -1,0 +1,33 @@
+principios de la ingenieria de software
+
+- la razon de que exista todo
+- mantener la vision 
+- otros consumen lo que ustedes producen 
+
+- abrase al futuro 
+siempre es bueno ir inovando mientras pasa el tiempo
+- planee por anticipado la reutilizacion 
+siempre cuando vamos a trabajar pensar en reutilizar 
+ejemplo:
+void suma(a,b)
+{
+	system.out.println(a+b);   ---esto esta mal porque al exportar a otro lenguaje no funcionara,es mejor esto:
+
+	return a+b; (esta si seria correcta)
+}
+
+
+- mitos del software
+
+				* mitos de la administracion 
+
+- tener un libro lleno de estandares para elaborar software, no ayudara a los desarrolladores 
+- si nos atrasamos,agregamos mas programadores 
+- si contrato a un tercero, puedo descansar y que su empresa desarrolle
+
+				* mitos del cliente 
+- par comezar a codificar, solo es necesaria la entrevista inicial 
+- el software cambia siempre, pero el cambio se asimila facil
+- mitos del profesional
+-una vez que funcione el programa, hemos terminado 
+- hasta que no este funcionado el software no puedo medir su funcionamieto

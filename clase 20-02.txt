@@ -1,0 +1,103 @@
+PRINCIPIOS DE MODELADO 
+
+SE CONOCEN PRINCIPIOS BASICOS EN EL PROCESO DE LA INGENIERIA SOFTWARE,PERO EN ESTE CASO VAMOS A VER COMO LOGRAR OBTENER REQUERIMIENTOS:
+
+anteriormente conociamos principios sencillos de asimilar como:
+
+- agregar calor a los usuarios finales 
+- mantenerlo sencillo
+- plantear a futuro 
+- etc.
+pero hay ciertos principios especificos que guian la practica y los procesos 
+
+
+
+principios que guian la practica:
+
+1 divide y venceras
+2 entender el uso de la abstraccion 
+3 buscar la coherencia 
+4 centrarse en la transferencia de informacion 
+5 construir software que tenga modularidad eficaz
+6 buscar patrones 
+7 presentar el problema desde perspectivas diferentes
+8 alguien dara mantenimiento al software
+
+
+PRINCIPIOS QUE GUIAN LA ACTIVIDAD ESTRUCTURAL
+
+1 principios de comunicacion 
+2 escuchar 
+3 antes prepararse
+4 alguien debe de facilitar la actividad 
+5 es mejor conversar cara a cara 
+6 tomar notas y documentar las decisiones 
+7 perseguir la colaboracion 
+8 permanecer centrado (modularizar)
+9 si algo no esta claro, hacer un dibujo
+10 avanzar muchas veces es mejor, si algo no esta claro 
+11 la negociacion no es un concurso
+
+
+PRINCIPIOS DE MODELADO
+- El equipo de software desarrolla y no crea modelos 
+- no crear mas modelos de los necesarios 
+- tratar de producir el modelo mas sencillo 
+- crear modelos suceptibles al cambio
+- enunciar un modelo explicito para los modelos 
+- adaptar los modelos al sistema 
+- construir modelos utiles (no perfectos)
+
+
+PRINCIPIOS DE PREPARACION 
+
+- entender el problema que trata de resolver
+- comprender los conceptos basicos del diseño 
+- elegir un lenguaje de programacion 
+- seleccionar un ambiente de programacion 
+- crear un conjunto de pruebas unitarias 
+
+
+PRINCIPIOS DE PROGRAMACION
+
+- Programacion estructurada
+- programacion por parejas
+- estructuras de datos que satisfagan el diseño
+- interfaces congruentes
+- mantener la logica lo mas sencilla posible 
+- nombres significativos para las variables
+- codigo documentado
+- crear una imagen visual del codigo que se entienda de forma sencilla
+
+
+PRINCIPOS DE VALIDACION 
+una vez terminado el primer proceso de desarrollo
+
+- recorrer el codigo cuando sea apropiado 
+- corregir errores
+- rediseñar el codigo
+
+PRINCIPIO DE PRUEBA 
+ - Se ejecuta con el objetivo de encontrar errores 
+- un caso de prueba, es cuando se tiene una alta posibilidad de encontrar error 
+- una prueba exitosa, es la que encuentra un error
+
+
+
+PRINCIPIOS DE DESPLIEGUE 
+cuando vamos a entregar un incremento se debe de seguir 
+
+- manejar las expectativas de los clientes 
+- debe de aprobarse el paquete a entregar
+- establecer un regimen de apoyo
+- materiales de aprendizaje apropiados 
+- si esta defectuoso debe corregirse antes y luego entregar. 
+
+
+
+
+
+
+
+
+

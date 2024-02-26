@@ -1,0 +1,41 @@
+DESARROLLO SCRUM Y KANBAN
+
+SCRUM:
+Dividir un equipo de trabajo en equipos pequeños,auto organizados y interdisciplinarios
+-divide el trabajo en modulos entregables.
+estos deben de ser ordenados por prioridad, asi podemos darle mayor importancia al los modulos urgentes.
+
+-Dividir el tiempo:
+Hay que dividir todo el tiempo de desarrollo en intervalos mas cortos de trabajo,generalmente se habla de no mas de 4 semanas.
+hay que tener en cuenra que en cada intervalo se va a presenrar modulos funcionales.
+
+- optimizan en plan de entregas
+al momento de ir entregando los modulos, con la ayuda del cliente se debe de actualizar prioridades de los modulos
+
+-optimizar el proceso
+los procesos se optimizan al tener una retroalimentacion despues de cada iteracion
+
+KANBAN
+
+
+- vizualizar el flujo de trabajo
+1- se divide el trabajo en bloques, luego se crea una tarjeta para cada elemento y se coloca en un muro
+2- utiliza columnas con nombre, para poder saber en donde esta cada elemento
+
+-trabajo en curso
+hay que establecer tiempos de trabajo para cada modulo, pero a la vez hay que limitar a cierta cantidad de modulos para estar en curso,de acuerdo al flujo de trabajo
+
+-tipo de ciclo
+es el tiempo medio para poder completar un proceso,y asi se consigue optimizar el proceso para que el tiempo medio sea tan pequeño y prodecible,como sea posible
+
+
+SCRUM Y KANBAN 
+TRABAJANDO EN UN MISMO PROYECTO
+
+muchas veces tratamos de comprar herramientas que nos ayudan para desarrollar alguna aactividad
+
+SCRUM ESTABLECE ROLES Y KANBAN NO
+scrum gay tres roles principales
+-dueño del producto: establecer los objeticos 
+-equipo; desarrolla producto
+-scrum master: proporciona esa parte de liderazgo en el equipo
